@@ -4,4 +4,5 @@ Repositorio de SREI
 
 ##PROYECTO 1º TRIMESTRE SREI 
   |-----------------|
-  | [Proyecto-final-SREI] (Proyecto-final-SREI/LÉAME.md). |
+  
+  | [Proyecto-final-SREI](Proyecto-final-SREI/LÉAME.md). |
